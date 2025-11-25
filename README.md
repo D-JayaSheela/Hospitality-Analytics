@@ -1,0 +1,3 @@
+# Hospitality-Analytics
+This project delivers a complete analytical solution for the hospitality industry by transforming raw hotel booking data into powerful business insights. Using SQL, Excel, Power BI, and Tableau, this project tracks hotel revenue, occupancy performance, customer trends, cancellations, and booking behavior across multiple cities and platforms
+This project delivers a complete analytical solution for the hospitality industry by transforming raw hotel booking data into powerful business insights. Using SQL, Excel, Power BI, and Tableau, this project tracks hotel revenue, occupancy performance, customer trends, cancellations, and booking behavior across multiple cities and platforms
